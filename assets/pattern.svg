@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="180" height="180" viewBox="0 0 180 180">
+  <defs>
+    <pattern id="p" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M0 18h36" stroke="rgba(156,71,40,0.10)" stroke-width="6" />
+      <circle cx="18" cy="18" r="2.6" fill="rgba(15,45,74,0.10)"/>
+      <circle cx="0" cy="0" r="2.6" fill="rgba(201,162,74,0.10)"/>
+      <circle cx="36" cy="36" r="2.6" fill="rgba(201,162,74,0.10)"/>
+    </pattern>
+  </defs>
+  <rect width="180" height="180" fill="url(#p)"/>
+</svg>

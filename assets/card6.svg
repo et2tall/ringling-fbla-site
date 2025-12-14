@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700">
+<defs>
+  <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
+    <stop offset="0" stop-color="#6ec6ff" stop-opacity=".22"/>
+    <stop offset="1" stop-color="#b47bff" stop-opacity=".20"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="700" fill="url(#g)"/>
+<rect x="260" y="200" width="680" height="360" rx="28" fill="rgba(255,255,255,.45)"/>
+<rect x="320" y="260" width="560" height="240" rx="18" fill="rgba(11,18,32,.16)"/>
+<path d="M320 510 L880 510" stroke="rgba(255,255,255,.55)" stroke-width="18"/>
+<path d="M320 220 L880 220" stroke="rgba(255,255,255,.55)" stroke-width="18"/>
+<text x="60" y="640" font-size="42" fill="rgba(255,255,255,.65)" font-family="system-ui,Segoe UI,Roboto">Museum of Art</text>
+</svg>

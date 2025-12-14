@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700">
+<defs>
+  <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
+    <stop offset="0" stop-color="#b47bff" stop-opacity=".25"/>
+    <stop offset="1" stop-color="#6ec6ff" stop-opacity=".25"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="700" fill="url(#g)"/>
+<path d="M200 560 L600 170 L1000 560 Z" fill="rgba(255,255,255,.45)"/>
+<path d="M320 560 L600 250 L880 560 Z" fill="rgba(11,18,32,.18)"/>
+<line x1="600" y1="170" x2="600" y2="560" stroke="rgba(255,255,255,.55)" stroke-width="16"/>
+<circle cx="600" cy="170" r="26" fill="rgba(247,200,90,.8)"/>
+<text x="60" y="640" font-size="42" fill="rgba(255,255,255,.65)" font-family="system-ui,Segoe UI,Roboto">Circus Museum</text>
+</svg>

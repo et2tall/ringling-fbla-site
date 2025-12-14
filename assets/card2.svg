@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700">
+<defs>
+  <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
+    <stop offset="0" stop-color="#f7c85a" stop-opacity=".35"/>
+    <stop offset="1" stop-color="#b47bff" stop-opacity=".25"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="700" fill="url(#g)"/>
+<path d="M600 175 C700 200 780 290 760 380 C730 510 600 570 600 570 C600 570 470 510 440 380 C420 290 500 200 600 175 Z"
+      fill="rgba(255,255,255,.50)"/>
+<path d="M600 230 C640 260 660 320 600 360 C540 320 560 260 600 230 Z"
+      fill="rgba(11,18,32,.35)"/>
+<text x="60" y="640" font-size="42" fill="rgba(255,255,255,.65)" font-family="system-ui,Segoe UI,Roboto">Gardens & Design</text>
+</svg>
