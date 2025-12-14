@@ -1,0 +1,92 @@
+/* =====================================
+   Ringling Museum – FBLA Website Styles
+   High Contrast + Accessible
+   ===================================== */
+
+/* ---------- GLOBAL ---------- */
+body {
+    background-color: #f6f1eb; /* warm cream */
+    color: #1f2a44; /* deep navy text */
+    font-family: Georgia, "Times New Roman", serif;
+    margin: 0;
+    line-height: 1.6;
+}
+
+/* ---------- HEADER ---------- */
+header {
+    background-color: #8c3b2a; /* Ringling terracotta */
+    color: #ffffff;
+    padding: 20px;
+    text-align: center;
+}
+
+header h1,
+header h2 {
+    color: #ffffff;
+    margin: 0;
+}
+
+/* ---------- NAVIGATION ---------- */
+nav {
+    background-color: #1f2a44; /* navy */
+    display: flex;
+    justify-content: center;
+}
+
+nav a {
+    color: #ffffff;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 12px 18px;
+}
+
+nav a:hover {
+    background-color: #c9a24d; /* gold */
+    color: #1f2a44;
+}
+
+/* ---------- HEADINGS ---------- */
+h1, h2, h3 {
+    color: #8c3b2a; /* terracotta */
+}
+
+/* ---------- SECTIONS ---------- */
+section {
+    background-color: #ffffff;
+    color: #1f2a44;
+    padding: 20px;
+    margin: 20px auto;
+    max-width: 1000px;
+    border-radius: 8px;
+}
+
+/* ---------- CARDS ---------- */
+.card {
+    background-color: #ffffff;
+    color: #1f2a44;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    padding: 15px;
+    margin: 15px 0;
+}
+
+.card h3 {
+    color: #8c3b2a;
+}
+
+/* ---------- FOOTER ---------- */
+footer {
+    background-color: #1f2a44;
+    color: #ffffff;
+    text-align: center;
+    padding: 15px;
+}
+
+/* ---------- LINKS ---------- */
+a {
+    color: #8c3b2a;
+}
+
+a:hover {
+    color: #c9a24d;
+}
